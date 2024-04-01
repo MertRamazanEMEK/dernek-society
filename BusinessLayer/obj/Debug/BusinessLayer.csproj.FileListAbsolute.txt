@@ -1,0 +1,82 @@
+C:\Users\90505\source\repos\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\90505\source\repos\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\90505\source\repos\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\90505\source\repos\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\90505\source\repos\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\90505\source\repos\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\90505\source\repos\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\90505\source\repos\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\mertr\Desktop\Yeni klasör (3)\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\mertr\Desktop\Yeni klasör (3)\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\mertr\Desktop\Yeni klasör (3)\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\mertr\Desktop\Yeni klasör (3)\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\mertr\Desktop\Yeni klasör (3)\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\mertr\Desktop\Yeni klasör (3)\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\mertr\Desktop\Yeni klasör (3)\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\mertr\Desktop\Yeni klasör (3)\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\mertr\Desktop\Yeni klasör (3)\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\mertr\Desktop\Yeni klasör (3)\BusinessLayer\obj\Debug\Interop.MDACVer.dll
+C:\Users\mertr\Desktop\Yeni klasör (3)\BusinessLayer\obj\Debug\BusinessLayer.csproj.ResolveComReference.cache
+C:\Users\90505\Desktop\Yeni klasör (3)\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\90505\Desktop\Yeni klasör (3)\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\90505\Desktop\Yeni klasör (3)\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\90505\Desktop\Yeni klasör (3)\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\90505\Desktop\Yeni klasör (3)\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\90505\Desktop\Yeni klasör (3)\BusinessLayer\obj\Debug\Interop.MDACVer.dll
+C:\Users\90505\Desktop\Yeni klasör (3)\BusinessLayer\obj\Debug\BusinessLayer.csproj.ResolveComReference.cache
+C:\Users\90505\Desktop\Yeni klasör (3)\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\90505\Desktop\Yeni klasör (3)\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\90505\Desktop\Yeni klasör (3)\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\90505\Desktop\Yeni klasör (3)\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\mertr\Desktop\OurProject\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\mertr\Desktop\OurProject\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\mertr\Desktop\OurProject\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\mertr\Desktop\OurProject\BusinessLayer\bin\Debug\ZedGraph.dll
+C:\Users\mertr\Desktop\OurProject\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\mertr\Desktop\OurProject\BusinessLayer\bin\Debug\ZedGraph.xml
+C:\Users\mertr\Desktop\OurProject\BusinessLayer\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\mertr\Desktop\OurProject\BusinessLayer\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\mertr\Desktop\OurProject\BusinessLayer\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\mertr\Desktop\OurProject\BusinessLayer\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\mertr\Desktop\OurProject\BusinessLayer\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\mertr\Desktop\OurProject\BusinessLayer\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\mertr\Desktop\OurProject\BusinessLayer\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\mertr\Desktop\OurProject\BusinessLayer\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\mertr\Desktop\OurProject\BusinessLayer\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\mertr\Desktop\OurProject\BusinessLayer\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\mertr\Desktop\OurProject\BusinessLayer\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\mertr\Desktop\OurProject\BusinessLayer\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\mertr\Desktop\OurProject\BusinessLayer\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\mertr\Desktop\OurProject\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\mertr\Desktop\OurProject\BusinessLayer\obj\Debug\Interop.MDACVer.dll
+C:\Users\mertr\Desktop\OurProject\BusinessLayer\obj\Debug\BusinessLayer.csproj.ResolveComReference.cache
+C:\Users\mertr\Desktop\OurProject\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\mertr\Desktop\OurProject\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\mertr\Desktop\OurProject\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\mertr\Desktop\OurProject\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\mertr\Desktop\Yeni klasör (2)\OurProject\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\mertr\Desktop\Yeni klasör (2)\OurProject\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\mertr\Desktop\Yeni klasör (2)\OurProject\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\mertr\Desktop\Yeni klasör (2)\OurProject\BusinessLayer\bin\Debug\ZedGraph.dll
+C:\Users\mertr\Desktop\Yeni klasör (2)\OurProject\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\mertr\Desktop\Yeni klasör (2)\OurProject\BusinessLayer\bin\Debug\ZedGraph.xml
+C:\Users\mertr\Desktop\Yeni klasör (2)\OurProject\BusinessLayer\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\mertr\Desktop\Yeni klasör (2)\OurProject\BusinessLayer\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\mertr\Desktop\Yeni klasör (2)\OurProject\BusinessLayer\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\mertr\Desktop\Yeni klasör (2)\OurProject\BusinessLayer\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\mertr\Desktop\Yeni klasör (2)\OurProject\BusinessLayer\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\mertr\Desktop\Yeni klasör (2)\OurProject\BusinessLayer\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\mertr\Desktop\Yeni klasör (2)\OurProject\BusinessLayer\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\mertr\Desktop\Yeni klasör (2)\OurProject\BusinessLayer\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\mertr\Desktop\Yeni klasör (2)\OurProject\BusinessLayer\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\mertr\Desktop\Yeni klasör (2)\OurProject\BusinessLayer\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\mertr\Desktop\Yeni klasör (2)\OurProject\BusinessLayer\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\mertr\Desktop\Yeni klasör (2)\OurProject\BusinessLayer\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\mertr\Desktop\Yeni klasör (2)\OurProject\BusinessLayer\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\mertr\Desktop\Yeni klasör (2)\OurProject\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\mertr\Desktop\Yeni klasör (2)\OurProject\BusinessLayer\obj\Debug\Interop.MDACVer.dll
+C:\Users\mertr\Desktop\Yeni klasör (2)\OurProject\BusinessLayer\obj\Debug\BusinessLayer.csproj.ResolveComReference.cache
+C:\Users\mertr\Desktop\Yeni klasör (2)\OurProject\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\mertr\Desktop\Yeni klasör (2)\OurProject\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\mertr\Desktop\Yeni klasör (2)\OurProject\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\mertr\Desktop\Yeni klasör (2)\OurProject\BusinessLayer\obj\Debug\BusinessLayer.pdb
